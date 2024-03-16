@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86131047252",
+    "project_id": "temtask-1a77a",
+    "storage_bucket": "temtask-1a77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86131047252:android:646420d3ecda56f4a926c1",
+        "android_client_info": {
+          "package_name": "com.example.question_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlL_IW95xa_v1E3RUcPrlhivSpVoodPyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
